@@ -13,11 +13,8 @@ This method helps in simulation of hyper-redundant robotic manipulator motion to
 This repo consists the codes for the following:
 
 1) 3D rotational Matrix Generator.
-
 2) Homogenous Matrix Generator.
-
 3)Jacobian Matrix Generator.
-
 4)Inverse Kinematics for hyper-redundant robotic manipulator.
 
 
